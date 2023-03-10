@@ -1,5 +1,8 @@
 [![Botsarefuture's GitHub stats](https://github-readme-stats.vercel.app/api?username=botsarefuture&count_private=true)](https://github.com/botsarefuture/botsarefuture)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=botsarefuture)](https://github.com/botsarefuture/botsarefuture)
+
+
 **About me**
 I'm 14 years old.
 I'm from Finland.
