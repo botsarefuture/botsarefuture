@@ -11,4 +11,5 @@ I speak English, Finnish
 + CSS
 
 **Contact me if you have questions to me**
+
 My email: vuoreol@protonmail.com
