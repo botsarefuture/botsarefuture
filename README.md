@@ -26,6 +26,7 @@ I enjoy working with a variety of programming languages, including:
 
 If you have any questions or want to connect, don't hesitate to reach out:
 
-- ✉️ Email: [vuoreol@protonmail.com](mailto:vuoreol@protonmail.com)
+- ✉️ General Email: [vuoreol@protonmail.com](mailto:vuoreol@protonmail.com)
+- 🌐 Regarding [Sinimustaa Hallitusta Vastaan](https://sinimustaahallitustavastaan.org/): [verso.vuorenmaa@sinimustaahallitustavastaan.org](mailto:verso.vuorenmaa@sinimustaahallitustavastaan.org)
 
 Let's code, collaborate, and make a positive impact together!
