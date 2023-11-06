@@ -1,20 +1,31 @@
+# Botsarefuture's GitHub Profile
+
+Welcome to my GitHub profile! Here, you can find a glimpse of my coding journey and skills.
+
 [![Botsarefuture's GitHub stats](https://github-readme-stats.vercel.app/api?username=botsarefuture&count_private=true)](https://github.com/botsarefuture/botsarefuture)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=botsarefuture)](https://github.com/botsarefuture/botsarefuture)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=botsarefuture)](https://github.com/botsarefuture/botsarefuture)
 
+## About Me
 
-**About me**
-I'm 14 years old.
-I'm from Finland.
-I speak English, Finnish
+- 🌟 I'm 14 years old.
+- 🌍 Based in beautiful Finland.
+- 🗣️ Fluent in both English and Finnish.
 
-**My programming languages**
-+ Python
-+ Javascript
-+ Typescript
-+ HTML
-+ CSS
+## My Programming Languages
 
-**Contact me if you have questions to me**
+I enjoy working with a variety of programming languages, including:
 
-My email: vuoreol@protonmail.com
+- 🐍 Python
+- 💻 JavaScript
+- 📜 TypeScript
+- 🌐 HTML
+- 🎨 CSS
+
+## Contact Me
+
+If you have any questions or want to connect, don't hesitate to reach out:
+
+- ✉️ Email: [vuoreol@protonmail.com](mailto:vuoreol@protonmail.com)
+
+Let's code, collaborate, and make a positive impact together!
