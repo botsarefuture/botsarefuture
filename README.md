@@ -2,9 +2,10 @@
 
 Welcome to my GitHub profile! Here, you can find a glimpse of my coding journey, skills, and contributions.
 
-[![Botsarefuture's GitHub stats](https://github-readme-stats.vercel.app/api?username=botsarefuture&count_private=true)](https://github.com/botsarefuture/botsarefuture)
+![MarineGEO circle logo](https://api.githubtrends.io/user/svg/botsarefuture/langs?time_range=all_time&include_private=True&loc_metric=changed&theme=classic "MarineGEO logo")
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=botsarefuture)](https://github.com/botsarefuture/botsarefuture)
+
+[https://api.githubtrends.io/user/svg/botsarefuture/langs?time_range=all_time&include_private=True&loc_metric=changed&theme=classic](https://api.githubtrends.io/user/svg/botsarefuture/langs?time_range=all_time&include_private=True&loc_metric=changed&theme=classic)
 
 ## About Me
 
