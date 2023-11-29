@@ -2,10 +2,9 @@
 
 Welcome to my GitHub profile! Here, you can find a glimpse of my coding journey, skills, and contributions.
 
-![MarineGEO circle logo](https://api.githubtrends.io/user/svg/botsarefuture/langs?time_range=all_time&include_private=True&loc_metric=changed&theme=classic "MarineGEO logo")
+![Stats](https://api.githubtrends.io/user/svg/botsarefuture/langs?time_range=all_time&include_private=True&loc_metric=changed&theme=classic "MarineGEO logo")
 
 
-[https://api.githubtrends.io/user/svg/botsarefuture/langs?time_range=all_time&include_private=True&loc_metric=changed&theme=classic](https://api.githubtrends.io/user/svg/botsarefuture/langs?time_range=all_time&include_private=True&loc_metric=changed&theme=classic)
 
 ## About Me
 
