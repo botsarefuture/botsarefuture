@@ -39,7 +39,6 @@ In addition to programming languages, here are some of my skills:
 If you have any questions or want to connect, don't hesitate to reach out:
 
 - ✉️ General Email: [vuoreol@protonmail.com](mailto:vuoreol@protonmail.com)
-- 🌐 Regarding [Sinimustaa Hallitusta Vastaan](https://sinimustaahallitustavastaan.org): [verso.vuorenmaa@sinimustaahallitustavastaan.org](mailto:verso.vuorenmaa@sinimustaahallitustavastaan.org)
 - 📞 Critical Matters: +358 442378588 (Telegram, WhatsApp, Signal, SMS - please do not call)
 
 You can also connect with me on [Telegram](https://t.me/versovuo).
