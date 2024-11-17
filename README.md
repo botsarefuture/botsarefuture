@@ -8,7 +8,7 @@ Welcome to my GitHub profile! Here, you can find a glimpse of my coding journey,
 
 ## About Me
 
-- 🌟 I'm 15 years old.
+- 🌟 I'm 16 years old.
 - 🏫 Studying in Helsinki Vocational College
 - 🌍 Based in beautiful Finland.
 - 🗣️ Fluent in both English and Finnish.
