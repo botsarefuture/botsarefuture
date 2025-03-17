@@ -34,6 +34,7 @@ In addition to programming languages, here are some of my skills:
 - 📣 Political Activism
 - 📦 Familiar with MongoDB
 - 🌐 Nginx
+- 🌐 Apache2
 
 ## Contact Me
 
