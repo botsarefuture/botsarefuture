@@ -43,7 +43,7 @@ I vibe with a bunch of languages & frameworks:
 
 Collabs, chaos, or tech tea? Slide into my inbox or ping me:  
 
-- ✉️ Email: [verso@luova.club](mailto:emilia@luova.club)  
+- ✉️ Email: [emilia@luova.club](mailto:emilia@luova.club)  
 - 🌐 Telegram: [@emppugirl](https://t.me/emppugirl)  
 
 > “Code like it’s art, live like it’s activism, and make the web a better place.” 💖🌿
