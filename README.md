@@ -9,7 +9,7 @@ Welcome to my GitHub! 💖 This is where code, creativity, and activism collide.
 ## 🌱 About Me
 
 - 👩‍💻 17-year-old full-stack dev & climate babe 🌿  
-- 🏫 Studying at Helsinki Vocational College  
+- 🏫 Gratuated from Helsinki Vocational College, now studying at the open university
 - 🌍 Based in Finland, coding for a sustainable & inclusive future  
 - 🌐 Fluent in Finnish & English, with a love for tech, memes & impact  
 
